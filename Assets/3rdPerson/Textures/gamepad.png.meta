@@ -125,3 +125,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28647
+  packageName: 3rd Person Controller + Fly Mode
+  packageVersion: 2.1.6
+  assetPath: Assets/3rdPerson/Textures/gamepad.png
+  uploadId: 621162
