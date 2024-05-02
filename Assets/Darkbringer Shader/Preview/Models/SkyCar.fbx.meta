@@ -230,3 +230,10 @@ ModelImporter:
   additionalBone: 0
   userData: 
   assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57038
+  packageName: Darkbringer Retro shader
+  packageVersion: 1.0
+  assetPath: Assets/Darkbringer Shader/Preview/Models/SkyCar.fbx
+  uploadId: 107041

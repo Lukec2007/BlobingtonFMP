@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: a0d821d4d6e79af40ad7bc0dea9ac696
+guid: 510c9380ad6052445aaeb7db9c9f9628
 DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248066
+  packageName: CRT-Free
+  packageVersion: 1.1
+  assetPath: Assets/CRT-Free/Scenes/Sample-CRT.unity
+  uploadId: 581284

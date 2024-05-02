@@ -9,3 +9,10 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248066
+  packageName: CRT-Free
+  packageVersion: 1.1
+  assetPath: Assets/CRT-Free/Scripts/CRTCameraBehaviour.cs
+  uploadId: 581284

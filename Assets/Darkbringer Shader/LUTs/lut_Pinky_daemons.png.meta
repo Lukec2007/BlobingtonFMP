@@ -55,3 +55,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57038
+  packageName: Darkbringer Retro shader
+  packageVersion: 1.0
+  assetPath: Assets/Darkbringer Shader/LUTs/lut_Pinky_daemons.png
+  uploadId: 107041
