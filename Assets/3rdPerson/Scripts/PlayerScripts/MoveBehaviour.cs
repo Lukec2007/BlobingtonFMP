@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using UnityEngine.Serialization;
+
 
 // MoveBehaviour inherits from GenericBehaviour. This class corresponds to basic walk and run behaviour, it is the default behaviour.
 public class MoveBehaviour : GenericBehaviour
